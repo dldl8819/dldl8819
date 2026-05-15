@@ -1,16 +1,27 @@
-## Hi there 👋
+# Full-Stack Engineer moving toward Systems & Database Engineering
 
-<!--
-**dldl8819/dldl8819** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build backend systems with an interest in Linux, Docker networking, databases, and operational troubleshooting.
 
-Here are some ideas to get you started:
+My current direction is to become an engineer who can reason from product behavior down to infrastructure, database, and runtime internals.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About
+
+- Full-stack engineer with experience in enterprise and financial environments
+- Interested in the boundary between application code, infrastructure, databases, and runtime behavior
+- Experienced with Java, Spring Boot, React, TypeScript, MySQL, Linux, and Docker
+- Worked on systems involving open-source vulnerability checks, DB integration, and Linux-based operations
+- Currently deepening my understanding of distributed systems, database internals, CDC, and performance optimization
+
+---
+
+## Engineering Focus
+
+```txt
+Application Backend  ->  Java, Spring Boot, API design
+Frontend             ->  React, TypeScript
+Database             ->  MySQL, SQL, transaction-aware systems
+Infrastructure       ->  Linux, Docker, Docker networking
+Data Systems         ->  Kafka CDC, data pipeline fundamentals
+Current Interests    ->  DB internals, distributed systems, performance, observability
