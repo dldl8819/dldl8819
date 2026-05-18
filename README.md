@@ -1,4 +1,4 @@
-# Full-Stack Engineer moving toward Systems & Database Engineering
+# Full-Stack Engineer moving toward Database Systems Engineering
 
 I build backend systems with an interest in Linux, Docker networking, databases, and operational troubleshooting.
 
